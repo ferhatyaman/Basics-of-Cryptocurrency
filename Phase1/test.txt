@@ -1,0 +1,8 @@
+*** Bitcoin transaction ***
+Serial number: 61527388720729546274628927180488180633
+Payer: Ferhat Yaman
+Payee: HT97BKCD4I
+Amount: 73 Satoshi
+Previous hash in the chain: First transaction
+Nonce: 249841141108973727059029812723515495430
+Proof of Work: 0000008b868ca1fc7b51a32a8982aeaa8c14d65c0ac6319d4833d17b2bc855bc
